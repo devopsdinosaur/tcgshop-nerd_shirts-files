@@ -1,0 +1,1 @@
+Female/Leather_Jacket/Modular/Upper_Body/Leather_Jacket/Leather_Jacket_LOD0/renderer_000/__add__/decal/__shader__
